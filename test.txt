@@ -19,7 +19,3 @@ add third line to check push in GUI
 add fourth line 
 
 5 line
-
-6 line
-
-7 line
